@@ -1,0 +1,5 @@
+node_modules/
+.env
+database/users.db
+database/users.db-shm
+database/users.db-wal
